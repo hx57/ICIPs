@@ -3,8 +3,8 @@ ICON Community Improvement Proposals (ICIPs) describe community initiatives towa
 
 
 # Contributing
- Review [ICIP-1](ICIPS/ICIP-1.md) for ICIP's general purpose and guidelines for creating a proposal.
- You can always begin from this [ICIP template ICIP](ICIP-X.md).
+ Review [ICIP-1](ICIPS/icip-1.md) for ICIP's general purpose and guidelines for creating a proposal.
+ You can always begin from this [ICIP template ICIP](icip-X.md).
 
 * **Novice Users** *
  If you're unfamiliar with github, feel free to write your proposal in any form and submit directly to 2infiniti@gmail.com
