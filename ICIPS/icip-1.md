@@ -10,7 +10,7 @@ created: 2018-07-23
 
 ## What is an ICIP?
 
-ICIP stands for ICON Community Improvement Proposal. An ICIP is a design document providing information to the ICON community, or describing new initiatives driven by the ICON Community Alliance (hx57). The ICIP should provide a concise action plans and a solid rationale behind these actions. The ICIP author is responsible for building consensus within the community and documenting dissenting opinions.
+ICIP stands for ICON Community Improvement Proposal. An ICIP is a design document providing information to the ICON community, or describing new initiatives driven by the ICON Community Alliance (hx57). The ICIP should provide concise action plans and solid rationale behind these actions. The ICIP authors are responsible for building consensus within the community and documenting dissenting opinions.
 
 ## ICIP Rationale
 
