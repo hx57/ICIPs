@@ -40,13 +40,13 @@ Each ICIP must begin with an RFC 822 style header preamble, preceded and followe
 
 ` * discussions-to:` <url>
 
-` status:` <Draft | Last Call | Accepted | Final | Active | Deferred | Rejected | Superseded>
+` status:` <Draft | Accepted | Final | Deferred>
 
 `* review-period-end`: YYYY-MM-DD
 
-` type: `<Standards Track (Core, Networking, Interface, IRC)  | Informational | Meta>
+` type: `<(Community, Hybrid, Team)>
 
-` * category:` <Core | Networking | Interface | IRC>
+` * category:` <Translation | Marketing | Partnership | etc>
 
 ` created:` <date created on, in ISO 8601 (yyyy-mm-dd) format>
 

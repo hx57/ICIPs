@@ -4,12 +4,14 @@ ICON Community Improvement Proposals (ICIPs) describe community initiatives towa
 
 # Contributing
  Review [ICIP-1](ICIPS/icip-1.md) for ICIP's general purpose and guidelines for creating a proposal.
- You can always begin from this [ICIP template ICIP](icip-X.md).
+ You can always begin from this [ICIP template](icip-X.md).
 
-* **Novice Users** *
+**Novice Users** 
+
  If you're unfamiliar with github, feel free to write your proposal in any form and submit directly to 2infiniti@gmail.com
 
-* **Through Github** *
+**Through Github**
+
  1. Fork the repository by clicking "Fork" on the top right of this page.
  2. Add your ICIP to your forked repository. 
  3. Submit a Pull Request to hx57's [ICIPs repository](https://github.com/hx57/ICIPs).
