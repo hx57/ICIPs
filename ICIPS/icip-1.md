@@ -2,7 +2,7 @@
 icip: 1
 title: ICIP Purpose and Guidelines
 author: 2infiniti <2infiniti@gmail.com>
-discussions-to: https://github.com/hx57/ICIPs/issues/
+discussions-to: https://github.com/hx57/ICIPs/issues/1
 status: Active    
 type: Meta
 created: 2018-07-23
