@@ -20,9 +20,6 @@ The title should be 44 characters or less.
 ## Simple Summary
 "If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the ICIP.
 
-## Abstract
-A short (~200 word) description of the problem being addressed.
-
 ## Motivation
 The motivation is critical for ICIPs that want to change the ICON protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the ICIP solves. ICIP submissions without sufficient motivation may be rejected outright.
 
