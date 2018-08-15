@@ -4,89 +4,98 @@ title: ICON Articles Translation
 author: 2infiniti <2infiniti@gmail.com>
 discussions-to: https://github.com/hx57/ICIPs/issues/2
 status: 
-type: Draft
+type: Accepted
 created: 2018-07-25
 ---
 
 ## Simple Summary
-Translate existing ICON english articles to different languages.
-
-## Abstract
-Reach audiences beyond English and Korean speaking countries. Prioritize by crypto population. Step by step, community driven grassroot effort, align w foundation’s best interest.
+Translate existing ICON English articles to different languages.
 
 ## Motivation
-A token standard interface allows any tokens on ICON to be re-used by other third parties, from wallets to decentralized exchanges.
+Reach audiences beyond English and Korean speaking countries. Prioritize by crypto population. Step by step, community driven grassroot effort, align w foundation’s best interest.
 
-## Specification
+## Target Language Market
+#### {language} 
+Arabic
 
-### Methods
+Chinese
 
-#### name
-Returns the name of the token. e.g. `MySampleToken`.
-```python
-@external(readonly=True)
-def name(self) -> str:
-```
+Dutch
 
-#### symbol
-Returns the symbol of the token. e.g. `MST`.
-```python
-@external(readonly=True)
-def symbol(self) -> str:
-```
+French
 
-#### decimals
-Returns the number of decimals the token uses. e.g. `18`.
-```python
-@external(readonly=True)
-def decimals(self) -> int:
-```
+German
 
-#### totalSupply
-Returns the total token supply.
-```python
-@external(readonly=True)
-def totalSupply(self) -> int:
-```
+Greek
 
-#### balanceOf
-Returns the account balance of another account with address `_owner`.
-```python
-@external(readonly=True)
-def balanceOf(self, _owner: Address) -> int:
-```
+Hindi
 
-#### transfer
-Transfers `_value` amount of tokens to address `_to`, and MUST fire the `Transfer` event. This function SHOULD throw if the `self.msg.sender` account balance does not have enough tokens to spend. If `_to` is a contract, this function MUST invoke the function `tokenFallback(Address, int, bytes)` in `_to`. If the `tokenFallback` function is not implemented in `_to` (receiver contract), then the transaction must fail and the transfer of tokens should not occur. If `_to` is an externally owned address, then the transaction must be sent without trying to execute `tokenFallback` in `_to`.  `_data` can be attached to this token transaction. `_data` can be empty.
-```python
-@external
-def transfer(self, _to: Address, _value: int, _data: bytes=None):
-```
+Indonesian
 
-### Eventlogs
+Korean
 
-#### Transfer
-Must trigger on any successful token transfers.
-```python
-@eventlog(indexed=3)
-def Transfer(self, _from: Address, _to: Address, _value: int, _data: bytes):
-    pass
-```
+Norwegian
 
-### Token Fallback
+Polish
 
-A function for handling token transfers, which is called from the token contract, when a token holder sends tokens. `_from` is the address of the sender of the token, `_value` is the amount of incoming tokens, and `_data` is arbitrary attached data. It works by analogy with the fallback function of the normal transactions and returns nothing.
-```python
-@external
-def tokenFallback(self, _from: Address, _value: int, _data: bytes):
-```
+Romanian
 
-## Implementation
-* https://github.com/sink772/IRC2-token-starndard
+Russian
 
-## References
-* [https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
-* [https://github.com/ethereum/EIPs/issues/223](https://github.com/ethereum/EIPs/issues/223)
+Spanish
+
+Swedish
+
+Turkish
+
+Vietnamese
+
+## Preparation
+Research respective markets, see ICON’s current coverage from local crypto community, level of activity, general sentiment etc. Look into 
+
+### Online
+#### {online_channels}
+Press release channels 
+Editorials
+Crypto media
+Crypto forums
+Crypto communities
+Influencers 
+
+### Offline
+#### {offline_channels}
+Conferences
+Roadshows
+Panel discussions
+
+## First Step: Translate Existing Content
+### Human Resource 
+Translator in {language}, official blog translation, community blog translation, twitter translation (eg: porting tweets to twitter of china weibo)
+
+### Collaboration Platform
+1. Telegram
+2. Google Docs
+3. Trello?
+4. Github?
+5. Discord?
+
+### User Interface
+Re-work current official Medium into multilingual blog (discuss sync and firewall issues) w editorial column for fan blogs or..
+Create a new site (icon.support domain can be used)
+Host translated content to popular platforms in each country for more generic traffic
+Other ideas?
+
+### Brand
+Integrate effort into existing ICON brand
+Run as an independent community site (hx57?)
+
+## Next Step: Content Distribution & Promotion
+1. Distribute to {online_channels} (eg: CoinDesk of China Jinse, Bitcointalk of China 8btc etc)
+2. Distribute to communities (eg: Twitter of China Weibo, Telegram of China WeChat etc)
+3. Work with local influencers & community to create original content in {language}
+
+
+
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
