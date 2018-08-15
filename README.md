@@ -41,5 +41,6 @@ If your ICIP requires images, the image files should be included in a subdirecto
 
 | Number             | Title                      | Author    | Type | Status |
 | ------------------ | -------------------------- | --------- | ---- | ------ |
-| [1](ICIPS/ICIP-1.md) | ICIP Purpose and Guidelines | 2infiniti | Community | Draft |
+| [1](ICIPS/icip-1.md) | ICIP Purpose and Guidelines | 2infiniti | Community | Draft |
+| [1](ICIPS/icip-2.md) | ICON Articles Translation   | 2infiniti | Community | Draft |
  
