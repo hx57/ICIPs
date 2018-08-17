@@ -10,7 +10,7 @@ created: 2018-08-17
 ---
 
 ## Simple Summary
-The ICON Community Alliance hx57 will be working us to launch ICON Research Week - a week where content written by the community is featured through the publication. 
+The ICON Community Alliance hx57 will collaborate with Panel to launch ICON Research Week - a week where content will be created by the community and the Panel team.
 
 ## Intro
 Welcome to panel x hx57 ICON Research Week!
