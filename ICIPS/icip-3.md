@@ -14,7 +14,7 @@ The ICON Community Alliance hx57 will collaborate with Panel to launch ICON Rese
 
 ## Intro
 Welcome to Panel x hx57 ICON Research Week!
-Anyone who would be interested, can contribute and we will work together to structure the content into something the community will appreciate and learn from. The panel team has prepared some prompts that research will be written about - if any of the prompts speak to you, or if you have something else you’d like to write about, this is your platform for getting your passion & message about ICON to the rest of the ICON community. Feel free to view, suggest edits, create new content, & comment on old content. 
+Anyone who would be interested, can contribute and we will work together to structure the content into something the community will appreciate and learn from. The panel team has prepared some prompts that the research will focus on - if any of the prompts speak to you, or if you have something else you’d like to write about, this is your platform for getting your passion & message about ICON to the rest of the ICON community. Feel free to view, suggest edits, create new content, & comment on old content. 
 
 We’re excited to have a content-packed, educational, and fun research week! The panel team has been hard at work at porting over their ICON research. We have secured some big Toronto names to be featured in a community podcast as well.
 
@@ -41,7 +41,9 @@ We have broken down the research into business development and content collabora
 
 
 ## Resource plan
-Explain the resources required for this proposal, preferably including a timeline projection. Remember we're dedicating our time to your plan, we will need to know your expectations from us.
+This is open to all content creators, editors, and influencers. Even if you only have ideas to contribute, you're welcomed to join this initiative. 
+
+The Panel team will cover a wide range of topics for the ICON project, initially text based. The Panel team will later provide resources to do live podcasts and videography team to do interviews.
 
 ## Credit
 
@@ -55,7 +57,7 @@ Editor: editor of content (proofreading, etc)
 
 ## Current Progress
 
-The Panel team is going to be pasting their content in as we loop the team into this new drive platform we set up for hx57. You can [access the folder here](https://drive.google.com/drive/folders/19rTbdS4n8mOO1uDTczDzbQUCEW3zqfQr?usp=sharing)
+The Panel team will be pasting their developed content to [hx57 community collaboration](https://drive.google.com/drive/folders/19rTbdS4n8mOO1uDTczDzbQUCEW3zqfQr?usp=sharing) folder, to see the latest progress you can simply visit the folder.
 
 
 Please, leave your name below to be thanked in helping with the ICON Research Week for hx57;
