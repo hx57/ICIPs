@@ -20,7 +20,7 @@ We’re excited to have a content-packed, educational, and fun research week! Th
 
 Feel free to talk with us on telegram [@hellopanel](https://t.me/hellopanel), or through [ICON Community Alliance hx57](https://t.me/iconhx57) telegram channel.
 
-If you'd like to collaborate on a content piece, please check out the content sign-up form spreadsheet! [Content Sign-Up Form](https://docs.google.com/spreadsheets/d/1q1UaYW9xbemaGp03aWl7ArWvyEe8rwgADQID8X6F6b0/edit#gid=1413666419) 
+If you'd like to collaborate on a content piece, please start by signing up to this [Content Sign-Up Form](https://docs.google.com/spreadsheets/d/1q1UaYW9xbemaGp03aWl7ArWvyEe8rwgADQID8X6F6b0/edit#gid=1413666419) 
 
 ## Action plan
 We have broken down the research into business development and content collaboration. Please start from this collaboration folder [hx57 community collaboration](https://drive.google.com/drive/folders/19rTbdS4n8mOO1uDTczDzbQUCEW3zqfQr?usp=sharing)
