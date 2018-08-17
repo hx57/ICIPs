@@ -5,7 +5,7 @@ author: 2infiniti <2infiniti@gmail.com>
 discussions-to: https://github.com/hx57/ICIPs/issues/2
 status: Draft
 type: Community
-category Translation
+category: Translation
 created: 2018-07-25
 ---
 

@@ -5,7 +5,7 @@ author: 2infiniti <2infiniti@gmail.com>
 discussions-to: https://github.com/hx57/ICIPs/issues/3
 status: Accepted
 type: Community
-category Content Creation
+category: Content Creation
 created: 2018-08-17
 ---
 
