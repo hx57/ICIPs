@@ -3,8 +3,9 @@ icip: 2
 title: ICON Articles Translation
 author: 2infiniti <2infiniti@gmail.com>
 discussions-to: https://github.com/hx57/ICIPs/issues/2
-status: 
-type: Accepted
+status: Draft
+type: Community
+category Translation
 created: 2018-07-25
 ---
 
