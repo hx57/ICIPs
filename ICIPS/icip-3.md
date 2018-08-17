@@ -18,7 +18,7 @@ Anyone who would like to can contribute and we will work together to structure t
 
 We’re excited to have a content-packed, educational, and fun research week! The panel team has been hard at work at porting over their ICON research. We have secured some big Toronto names to be featured in a community podcast as well.
 
-Feel free to talk with us on telegram [@hellopanel](https://t.me/hellopanel), or through the official [hx57 TG group](https://t.me/iconhx57) 
+Feel free to talk with us on telegram [@hellopanel](https://t.me/hellopanel), or through [ICON Community Alliance hx57](https://t.me/iconhx57) telegram channel.
 
 If you'd like to collaborate on a content piece, please check out the content sign-up form spreadsheet! [Content Sign-Up Form](https://docs.google.com/spreadsheets/d/1q1UaYW9xbemaGp03aWl7ArWvyEe8rwgADQID8X6F6b0/edit#gid=1413666419) 
 
