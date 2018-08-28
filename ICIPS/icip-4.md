@@ -2,7 +2,6 @@
 icip: 4
 title: hx57 Medium Publication Branding Guidelines
 author: Brian Li <brian@decrypto.net>
-discussions-to: <email address or github issue address or other discussion channels>
 status: Active
 category Branding
 created: <2018-08-28>
