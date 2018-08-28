@@ -23,8 +23,8 @@ On the next page, click the "New publication" button.
 Click on the "Info" tab, and use the settings below for your hx57 publication.
 * Name - hx57 <Language> (e.g. hx57 Korean, hx57 Italian, etc.)
 * Description - ICON Community Alliance (in your language)
-* Publication avatar - Click [here](ICIPs/ICIPS/icip-4/Assets/hx57_AVATAR.png) to download the publication avatar image.
-* Publication logo - Click [here](ICIPs/ICIPS/icip-4/Assets/hx57_HEADER_BAR.png) to download the publication logo image.
+* Publication avatar - Click [here](https://github.com/DecryptoBL/ICIPs/blob/DecryptoBL-ICIP-4/ICIPS/icip-4/Assets/hx57_AVATAR.png?raw=true) to download the publication avatar image.
+* Publication logo - Click [here](https://github.com/DecryptoBL/ICIPs/blob/DecryptoBL-ICIP-4/ICIPS/icip-4/Assets/hx57_HEADER_BAR.png) to download the publication logo image.
 * Contact info - An email address for potential inquiries.
 * Tags - ICON, ICX, Blockchain, Cryptocurrency (in your language.
 
