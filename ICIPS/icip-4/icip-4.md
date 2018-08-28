@@ -43,7 +43,7 @@ At this point, your page should look like this.
 
 ![hx57 Header BG](https://imgur.com/TWH6oPm.png)
 
-Click on the camera logo in the middle of the header area to assign a header image. Click [here](https://decrypto.net/hx57/assets/) to find the corresponding header image for your language (if you do not see your language, please open an issue on Github or send me an email. For the title area, type "ICON Community Alliance" in your language. The tagline area should be left blank. At this point, your page should look like this.
+Click on the camera logo in the middle of the header area to assign a header image. Click [here](/assets/) to find the corresponding header image for your language (if you do not see your language, please open an issue on Github or send me an email. For the title area, type "ICON Community Alliance" in your language. The tagline area should be left blank. At this point, your page should look like this.
 
 ![hx57 Header BG](https://imgur.com/wkI8hRa.png)
 
