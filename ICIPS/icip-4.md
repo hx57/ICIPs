@@ -23,8 +23,8 @@ On the next page, click the "New publication" button.
 Click on the "Info" tab, and use the settings below for your hx57 publication.
 * Name - hx57 <Language> (e.g. hx57 Korean, hx57 Italian, etc.)
 * Description - ICON Community Alliance (in your language)
-* Publication avatar - Click [here](assets/hx57_AVATAR.png) to download the publication avatar image.
-* Publication logo - Click [here](https://github.com/DecryptoBL/ICIPs/blob/DecryptoBL-ICIP-4/ICIPS/icip-4/Assets/hx57_HEADER_BAR.png?raw=true) to download the publication logo image.
+* Publication avatar - Click [here](assets/hx57_AVATAR.png?raw=true) to download the publication avatar image.
+* Publication logo - Click [here](assets/hx57_HEADER_BAR.png?raw=true) to download the publication logo image.
 * Contact info - An email address for potential inquiries.
 * Tags - ICON, ICX, Blockchain, Cryptocurrency (in your language.
 
@@ -43,7 +43,7 @@ At this point, your page should look like this.
 
 ![hx57 Header BG](https://imgur.com/TWH6oPm.png)
 
-Click on the camera logo in the middle of the header area to assign a header image. Click [here](https://github.com/DecryptoBL/ICIPs/tree/DecryptoBL-ICIP-4/ICIPS/icip-4/Assets) to find the corresponding header image for your language (if you do not see your language, please open an issue on Github or send me an email. For the title area, type "ICON Community Alliance" in your language. The tagline area should be left blank. At this point, your page should look like this.
+Click on the camera logo in the middle of the header area to assign a header image. Click [here](assets/) to find the corresponding header image for your language (if you do not see your language, please open an issue on Github or send me an email. For the title area, type "ICON Community Alliance" in your language. The tagline area should be left blank. At this point, your page should look like this.
 
 ![hx57 Header BG](https://imgur.com/wkI8hRa.png)
 
