@@ -2,7 +2,7 @@
 icip: 5
 title: ICONist of the month
 author: 2infiniti <2infiniti@gmail.com>
-discussions-to: https://github.com/hx57/ICIPs/issues/5
+discussions-to: https://github.com/hx57/ICIPs/issues/9
 status: Accepted
 type: Community | Team
 category: Incentive
