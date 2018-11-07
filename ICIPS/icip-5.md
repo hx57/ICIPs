@@ -34,6 +34,9 @@ Donation Address - For the community to donate to the winner as a token of appre
 
 ICON Swag (ICON smartphone ring, ICON notebook pouch, ICON socks, ICON coffee mugs etc)
 
+## Follow-Ups (Optional)
+An exclusive interview with the ICONist
+
 ## Rules
 Past winners may re-enter the program, but may not submit past work
 
