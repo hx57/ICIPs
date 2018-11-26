@@ -1,14 +1,11 @@
 ---
-icip: <to be assigned>
-title: <ICIP title>
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <email address or github issue address or other discussion channels>
+icip: 6
+title: Official discussion forum
+author: CryptoAutomata
 status: Draft
-type: <Community>
-category <Translation>
-created: <date created on (yyyy-mm-dd) format>
-requires (*optional): <ICIP number(s)>
-replaces (*optional): <ICIP number(s)>
+type: Community
+category: Development
+created: 2018.11.26.
 ---
 
 This is the suggested template for new ICIPs.
