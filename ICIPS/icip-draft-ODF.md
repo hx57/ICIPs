@@ -22,10 +22,10 @@ Sorry I know it is only an idea and not a perfect ICIP but I just wanted to leav
 
 ## Actions needed
 
-#1 Choose domain, implement forum engine (Discourse seems to be good) and design it to be responsive
-#2 Develop an app to use $ICX wallet for registration/login and voting.
-#3 Select the team: leaders who will give answers, administrators, social marketing expert for with news
-#4 Put together the main knowledge base and content
+1. Choose domain, implement forum engine (Discourse seems to be good) and design it to be responsive
+2. Develop an app to use $ICX wallet for registration/login and voting.
+3. Select the team: leaders who will give answers, administrators, social marketing expert for with news
+4. Put together the main knowledge base and content
 
 ## A probably good example
 
