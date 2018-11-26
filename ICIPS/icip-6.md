@@ -8,12 +8,6 @@ category: Development
 created: 2018.11.26.
 ---
 
-This is the suggested template for new ICIPs.
-
-Note that an ICIP number will be assigned by an editor. When opening a pull request to submit your ICIP, please use an abbreviated title in the filename, `ICIP-draft_title_abbrev.md`.
-
-The title should be 44 characters or less.
-
 ## Simple Summary
 "If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the ICIP.
 
