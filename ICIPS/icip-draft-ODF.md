@@ -3,7 +3,7 @@ icip:
 title: Official discussion forum
 author: CryptoAutomata
 status: Draft
-type: Community
+type: Hybrid
 category: Idea
 created: 2018.11.26.
 ---
